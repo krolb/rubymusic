@@ -49,3 +49,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #mygems
 
 gem 'devise'
+gem 'paperclip', '~> 4.2.1'
+gem 'paperclip-dropbox', '>= 1.1.7'

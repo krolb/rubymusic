@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="development" uuid="6c511a30-99e0-4d6c-9d39-ae64c1b1a229">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails Ruby Musics: development" uuid="de19fc0f-497c-4814-bf94-a45b64d42c08">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>

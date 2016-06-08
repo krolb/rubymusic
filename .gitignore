@@ -12,3 +12,6 @@
 /log/*
 !/log/.keep
 /tmp
+/public/system/musics
+/config/dropbox.yml
+/config/secrets.yml
