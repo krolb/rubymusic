@@ -13,5 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require materialize
+//= require materialize-sprockets
 //= require podlove-web-player-rails
 //= require_tree .
+
+

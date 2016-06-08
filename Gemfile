@@ -52,4 +52,5 @@ gem 'devise'
 gem 'paperclip', '~> 4.2.1'
 gem 'paperclip-dropbox', '>= 1.1.7'
 gem 'podlove-web-player-rails'
+gem 'materialize-sass'
 
