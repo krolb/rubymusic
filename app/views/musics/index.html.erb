@@ -18,7 +18,7 @@
       <tr>
         <td><%= music.title %></td>
         <td><%= music.artist %></td>
-        <td><%= music.song %></td>
+        <td><%= podloveaudio(src: music.song, title: 'My track') %></td>
         <td><%= music.user_id %></td>
         <td><%= link_to 'Show', music %></td>
         <td><%= link_to 'Edit', edit_music_path(music) %></td>

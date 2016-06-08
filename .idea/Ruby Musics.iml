@@ -145,6 +145,7 @@
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.5.0, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="paperclip (v4.2.4, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="paperclip-dropbox (v1.3.2, ruby-2.1.8-p440) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="podlove-web-player-rails (v2.0.17, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.4, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, ruby-2.1.8-p440) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.2.5.1, ruby-2.1.8-p440) [gem]" level="application" />
